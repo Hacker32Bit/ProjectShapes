@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.exe.config
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.exe
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.pdb
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.exe
+D:\Visual Studio Projects\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.pdb
